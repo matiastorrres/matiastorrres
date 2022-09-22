@@ -4,6 +4,8 @@
 
 Soy un desarrollador web que esta dando sus primeros pasos.
 Actualmente me gradúe en el Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en código.
+
+
 🧑‍🎓 Tecnologías que uso:
 
 🧠 FrontEnd: JavaScript- React-Redux-HTML5-CSS3.
