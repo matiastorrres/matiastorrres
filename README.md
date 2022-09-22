@@ -21,4 +21,5 @@ Actualmente me gradÃºe en el Bootcamp de Soy Henry como Full Stack Developer ðŸ§
 Contacta conmigo:
 
 linkedin: https://www.linkedin.com/in/matias-torres-developer/
+
 e-mail: mrt.estudio.05@gmail.com
