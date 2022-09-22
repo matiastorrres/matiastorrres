@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es matias
 #### bienvenidos a mi GitHub
-![bienvenidos a mi GitHub](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![bienvenidos a mi GitHub](https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq)
 
 Soy un desarrollador web que esta dando sus primeros pasos.
 Actualmente me gradúe en el Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en código.
